@@ -1,4 +1,6 @@
-This is a small project focusing on more advanced CSS grid layout properties. The CSS utilized includes the following:
+https://responsivegridlayoutproject.netlify.app/
+
+This is a small project focusing on more advanced CSS grid layout properties using dummy links. The layout emulated a science news network optimized for mobile, tablet, and desktop use. The CSS utilized includes the following:
 - grid-template-columns and rows
 - span
 - grid-column and rows
